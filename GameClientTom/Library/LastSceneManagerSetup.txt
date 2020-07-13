@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/tcp-udp-networking/GameClient/Assets/Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
